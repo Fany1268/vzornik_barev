@@ -1,0 +1,335 @@
+/*
+Základní nastavení pro všechny elementy v html
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bile-pismo {
+    color: white;
+}
+
+/* první sloupec */
+
+.blankyt {
+    width: 150px;
+    height: 150px;
+    background: #3a86ff;
+    /* margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px; */
+    /* margin: 10px, 0, 10px, 10px; */
+    margin: 10px 0 10px 10px;
+}
+
+.rubinove-cerveny {
+    width: 150px;
+    height: 150px;
+    background:#c40202;
+    margin: 0 0 10px 10px;
+    
+}
+
+.mango {
+    width: 150px;
+    height: 150px;
+    background: #ffbd00;
+    margin: 0 0 10px 10px;
+}
+
+.modry-prasek {
+    width: 150px;
+    height: 150px;
+    background: #a9deda;
+    margin: 0 0 10px 10px;
+}
+
+.cervena-ruze {
+    width: 150px;
+    height: 150px;
+    background: #ba3a5e;
+    margin: 0 0 10px 10px;
+}
+
+.modra-han {
+    width: 150px;
+    height: 150px;
+    background: #4c74d9;
+    margin: 0 0 10px 10px;
+}
+
+.sky-blue {
+    width: 150px;
+    height: 150px;
+    background: #88e9fc;
+    margin: 0 0 10px 10px;
+}
+
+.black-smoky {
+    width: 150px;
+    height: 150px;
+    background: #0d0201;
+    margin: 0 0 10px 10px;
+    
+}
+
+.rosso-corsa {
+    width: 150px;
+    height: 150px;
+    background: #c42202;
+    margin: 0 0 10px 10px;
+    
+}
+
+.ruske-violet {
+    width: 150px;
+    height: 150px;
+    background: #480259;
+    margin: 0 0 10px 10px;
+    
+}
+
+/* druhý sloupec */
+
+.absolutni-nula {
+    width: 150px;
+    height: 150px;
+    background: #064ab8;
+    /* margin-left: 170px;
+        margin-top: -1472px;
+    */
+    margin: -1472px 0 0 160px;
+    
+    
+}
+
+.imperialni-cervena {
+    width: 150px;
+    height: 150px;
+    background: #e63946;
+    margin: 10px 0 0 160px;
+    color: #000000;
+}
+
+.oranzovy-pantone {
+    width: 150px;
+    height: 150px;
+    background: #ff5400;
+    margin: 10px 0 0 160px;
+    color: #000000;
+}
+
+.svetle-more {
+    width: 150px;
+    height: 150px;
+    background: #2fb5ac;
+    margin: 10px 0 0 160px;
+    color: #000000;
+    
+}
+
+.francouzka-fialova {
+    width: 150px;
+    height: 150px;
+    background: #6423cc;
+    margin: 10px 0 0 160px; 
+    
+}
+
+.citronova-kriz {
+    width: 150px;
+    height: 150px;
+    background: #c99718;
+    margin: 10px 0 0 160px; 
+    color: #000000;
+    
+}
+
+.red-wood {
+    width: 150px;
+    height: 150px;
+    background: #965345;
+    margin: 10px 0 0 160px; 
+    color: #000000;
+    
+}
+
+.rufous {
+    width: 150px;
+    height: 150px;
+    background: #9e2b19;
+    margin: 10px 0 0 160px; 
+    color: #000000;
+    
+}
+
+.fialova-modra {
+    width: 150px;
+    height: 150px;
+    background: #364ec7;
+    margin: 10px 0 0 160px; 
+    color: #000000;
+        
+}
+
+.brink-ruzova {
+    width: 150px;
+    height: 150px;
+    background: #F75979;
+    margin: 10px 0 0 160px; 
+    color: #000000;
+        
+}
+
+/* třetí sloupec */
+
+.limetkove-zelena {
+    width: 150px;
+    height: 150px;
+    background: #56de02;
+    margin: -1590px 0 0 320px; 
+    color: #000000;
+        
+}
+
+.pruska-modr {
+    width: 150px;
+    height: 150px;
+    background: #1d3557;
+    margin: 10px 0 0 320px; 
+            
+}
+
+.crayola-cervena {
+    width: 150px;
+    height: 150px;
+    background: #ff0054;
+    margin: 10px 0 0 320px;
+    color: #000000; 
+            
+}
+
+.lemon-zluty {
+    width: 150px;
+    height: 150px;
+    background: #faee4b;
+    margin: 10px 0 0 320px;
+    color: #000000; 
+            
+}
+
+.elektricky-indigo {
+    width: 150px;
+    height: 150px;
+    background: #6a23db;
+    margin: 10px 0 0 320px;
+                
+}
+
+.korunovy-kvet-modry {
+    width: 150px;
+    height: 150px;
+    background: #678ef0;
+    margin: 10px 0 0 320px;
+    color: #000000; 
+                
+}
+
+.zive-nebe-modre {
+    width: 150px;
+    height: 150px;
+    background: #1bd5fa;
+    margin: 10px 0 0 320px;
+    color: #000000; 
+                
+}
+
+.lesni-zelena-tradicni {
+    width: 150px;
+    height: 150px;
+    background: #014722;
+    margin: 10px 0 0 320px;
+                    
+}
+
+.modry-neon {
+    width: 150px;
+    height: 150px;
+    background: #4967fc;
+    margin: 10px 0 0 320px;
+    color: #000000;
+                    
+}
+
+.amaranth {
+    width: 150px;
+    height: 150px;
+    background: #e82a50;
+    margin: 10px 0 0 320px;
+    color: #000000;
+                    
+}
+
+/* čtvrtý sloupec */
+
+.harlekyn {
+    width: 150px;
+    height: 150px;
+    background: #58e600;
+    margin: -1591px 0 0 480px;
+    color: #000000;
+                    
+}
+
+.medovice {
+    width: 150px;
+    height: 150px;
+    background: #f1faee;
+    margin: 10px 0 0 480px;
+    color: #000000;
+                    
+}
+
+.jazzberry-jam {
+    width: 150px;
+    height: 150px;
+    background: #9e0059;
+    margin: 10px 0 0 480px;
+                        
+}
+
+.zeme-purple {
+    width: 150px;
+    height: 150px;
+    background: #ae69b3;
+    margin: 10px 0 0 480px;
+    color: #000000;
+                    
+}
+
+.neonove-zelena {
+    width: 150px;
+    height: 150px;
+    background: #09ed15;
+    margin: 10px 0 0 480px;
+    color: #000000;
+                        
+}
+
+.st-patricks-modra {
+    width: 150px;
+    height: 150px;
+    background: #113182;
+    margin: 10px 0 0 480px;
+                        
+}
+
+
+
+
+
+
+

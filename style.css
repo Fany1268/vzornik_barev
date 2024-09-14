@@ -66,6 +66,7 @@ Základní nastavení pro všechny elementy v html
     height: 150px;
     background: #88e9fc;
     margin: 0 0 10px 10px;
+    color: #000000;
 }
 
 .black-smoky {
@@ -327,8 +328,59 @@ Základní nastavení pro všechny elementy v html
                         
 }
 
+.pacificka-modra {
+    width: 150px;
+    height: 150px;
+    background: #53a7b8;
+    margin: 10px 0 0 480px;
+                        
+}
+
+.sacramento-stat-zeleny {
+    width: 150px;
+    height: 150px;
+    background: #05361c;
+    margin: 10px 0 0 480px;
+                        
+}
+
+.tradicni-chartreuse {
+    width: 150px;
+    height: 150px;
+    background: #defc44;
+    margin: 10px 0 0 480px;
+                        
+}
+
+.xicheticke {
+    width: 150px;
+    height: 150px;
+    background: #0f0104;
+    margin: 10px 0 0 480px;
+                        
+}
+
+/* pátý sloupec */
+
+.zimni-sky {
+    width: 150px;
+    height: 150px;
+    background: #fa2878;
+    margin: -1590px 0 0 640px;
+                        
+}
+
+.celadon-modra {
+    width: 150px;
+    height: 150px;
+    background: #457b9d;
+    margin: 10px 0 0 640px;
+                        
+}
 
 
+
+    
 
 
 

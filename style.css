@@ -378,6 +378,70 @@ Základní nastavení pro všechny elementy v html
                         
 }
 
+.trypan-modry {
+    width: 150px;
+    height: 150px;
+    background: #390099;
+    margin: 10px 0 0 640px;
+                        
+}
+
+.nafialovely {
+    width: 150px;
+    height: 150px;
+    background: #f4a7fa;
+    margin: 10px 0 0 640px;
+    color: #000000;
+                        
+}
+
+.spanelska-karmina {
+    width: 150px;
+    height: 150px;
+    background: #d1174c;
+    margin: 10px 0 0 640px;
+                            
+}
+
+.modry-ryb {
+    width: 150px;
+    height: 150px;
+    background: #1c55e6;
+    margin: 10px 0 0 640px;
+                            
+}
+
+.horkosladky {
+    width: 150px;
+    height: 150px;
+    background: #F27157;
+    margin: 10px 0 0 640px;
+                            
+}
+
+.vermilion {
+    width: 150px;
+    height: 150px;
+    background: #e02f14;
+    margin: 10px 0 0 640px;
+                            
+}
+
+.fialova-munsellova {
+    width: 150px;
+    height: 150px;
+    background: #9f09bd;
+    margin: 10px 0 0 640px;
+                            
+}
+
+.popova-hvezda {
+    width: 150px;
+    height: 150px;
+    background: #c9576e;
+    margin: 10px 0 0 640px;
+                            
+}
 
 
     
